@@ -1,0 +1,52 @@
+{
+  "../../packages/engine/src/index.ts": {
+    "file": "assets/index-BmspmHqB.js",
+    "name": "index",
+    "src": "../../packages/engine/src/index.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "_run-loop-DLi8FDZu.js",
+      "index.html"
+    ]
+  },
+  "_run-loop-DLi8FDZu.js": {
+    "file": "assets/run-loop-DLi8FDZu.js",
+    "name": "run-loop"
+  },
+  "index.html": {
+    "file": "assets/index-BM4DNJSE.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_run-loop-DLi8FDZu.js"
+    ],
+    "dynamicImports": [
+      "src/art/client.ts",
+      "public/fonts/OFL-PressStart2P.txt?raw",
+      "public/fonts/OFL-VT323.txt?raw",
+      "../../packages/engine/src/index.ts"
+    ],
+    "css": [
+      "assets/index-CnAl8JXl.css"
+    ]
+  },
+  "public/fonts/OFL-PressStart2P.txt?raw": {
+    "file": "assets/OFL-PressStart2P-CQtodjH2.js",
+    "name": "OFL-PressStart2P",
+    "src": "public/fonts/OFL-PressStart2P.txt?raw",
+    "isDynamicEntry": true
+  },
+  "public/fonts/OFL-VT323.txt?raw": {
+    "file": "assets/OFL-VT323-MDFUb5s9.js",
+    "name": "OFL-VT323",
+    "src": "public/fonts/OFL-VT323.txt?raw",
+    "isDynamicEntry": true
+  },
+  "src/art/client.ts": {
+    "file": "assets/client-CvIJMswu.js",
+    "name": "client",
+    "src": "src/art/client.ts",
+    "isDynamicEntry": true
+  }
+}
