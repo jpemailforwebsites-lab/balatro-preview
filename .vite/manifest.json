@@ -1,25 +1,25 @@
 {
   "../../packages/engine/src/index.ts": {
-    "file": "assets/index-DVzM0Ku8.js",
+    "file": "assets/index-CHBbMW0A.js",
     "name": "index",
     "src": "../../packages/engine/src/index.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_run-loop-7utk6CND.js",
+      "_run-loop-kXmIsrKw.js",
       "index.html"
     ]
   },
-  "_run-loop-7utk6CND.js": {
-    "file": "assets/run-loop-7utk6CND.js",
+  "_run-loop-kXmIsrKw.js": {
+    "file": "assets/run-loop-kXmIsrKw.js",
     "name": "run-loop"
   },
   "index.html": {
-    "file": "assets/index-BgmTbEuj.js",
+    "file": "assets/index-CwrfAV9A.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_run-loop-7utk6CND.js"
+      "_run-loop-kXmIsrKw.js"
     ],
     "dynamicImports": [
       "src/art/client.ts",
