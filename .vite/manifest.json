@@ -1,25 +1,25 @@
 {
   "../../packages/engine/src/index.ts": {
-    "file": "assets/index-CHBbMW0A.js",
+    "file": "assets/index-D0auwL2f.js",
     "name": "index",
     "src": "../../packages/engine/src/index.ts",
     "isDynamicEntry": true,
     "imports": [
-      "_run-loop-kXmIsrKw.js",
+      "_run-loop-C8laUzJU.js",
       "index.html"
     ]
   },
-  "_run-loop-kXmIsrKw.js": {
-    "file": "assets/run-loop-kXmIsrKw.js",
+  "_run-loop-C8laUzJU.js": {
+    "file": "assets/run-loop-C8laUzJU.js",
     "name": "run-loop"
   },
   "index.html": {
-    "file": "assets/index-CwrfAV9A.js",
+    "file": "assets/index-Cj0HbhET.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "imports": [
-      "_run-loop-kXmIsrKw.js"
+      "_run-loop-C8laUzJU.js"
     ],
     "dynamicImports": [
       "src/art/client.ts",
@@ -28,7 +28,7 @@
       "../../packages/engine/src/index.ts"
     ],
     "css": [
-      "assets/index-C3c77M3_.css"
+      "assets/index-ChY6WTjn.css"
     ]
   },
   "public/fonts/OFL-PressStart2P.txt?raw": {
